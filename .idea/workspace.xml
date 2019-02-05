@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20e9ae93-bbb7-4c24-a456-d9f7981a236a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/API/PRM_API/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SF3_ANG7_DockerStack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SF3_ANG7_DockerStack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/PRM_API/var/SymfonyRequirements.php" beforeDir="false" afterPath="$PROJECT_DIR$/API/PRM_API/var/SymfonyRequirements.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/PRM_API/var/cache/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/PRM_API/var/logs/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/API/PRM_API/var/logs/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/PRM_API/var/sessions/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/API/PRM_API/var/sessions/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/PRM_API/web/app_dev.php" beforeDir="false" afterPath="$PROJECT_DIR$/API/PRM_API/web/app_dev.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/nginx/api.conf" beforeDir="false" afterPath="$PROJECT_DIR$/docker/nginx/api.conf" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-546681389">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="7" />
+          <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="4" />
+          <entry key="conf" value="10" />
+          <entry key="html" value="1" />
+          <entry key="ini" value="1" />
+          <entry key="php" value="2" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Dockerfile" value="4" />
+          <entry key="HTML" value="1" />
+          <entry key="Ini" value="1" />
+          <entry key="PHP" value="2" />
+          <entry key="SmartyConfig" value="10" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Dockerfile" value="206" />
+          <entry key="conf" value="196" />
+          <entry key="html" value="13" />
+          <entry key="yml" value="589" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Dockerfile" value="206" />
+          <entry key="HTML" value="13" />
+          <entry key="SmartyConfig" value="196" />
+          <entry key="YAML" value="589" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SF3_ANG7_DockerStack" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker/nginx/api.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker/engine/php.ini">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker/nginx/api_tpl.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API/PRM_API/web/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker/web-client/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API/PRM_API/web/app_dev.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mariadb-mao</find>
+      <find>workdir</find>
+      <find>$PWD</find>
+      <find>srv/webClient/prm-client/</find>
+      <find>worker_processes</find>
+      <find>agular-web-client</find>
+      <find>engine-mao</find>
+      <find>app_dev</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>mariadb-mao-prm</replace>
+      <replace>phpmyadmin-mao-prm</replace>
+      <replace>app</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/docker</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WebClient/prm-client/docker/nginx.conf" />
+        <option value="$PROJECT_DIR$/WebClient/prm-client/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker/web-client/Dockerfile" />
+        <option value="$PROJECT_DIR$/WebClient/docker/web-client/nginx.conf" />
+        <option value="$PROJECT_DIR$/docker/nginx/nginx.conf" />
+        <option value="$PROJECT_DIR$/WebClient/docker/nginx/nginx.conf" />
+        <option value="$PROJECT_DIR$/docker/web-client/nginx.conf" />
+        <option value="$PROJECT_DIR$/API/PRM_API/web/app_dev.php" />
+        <option value="$PROJECT_DIR$/API/PRM_API/web/index.html" />
+        <option value="$PROJECT_DIR$/docker/nginx/api.conf" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/WebClient/prm-client/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/WebClient/prm-client/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1918" />
+    <option name="y" value="1" />
+    <option name="width" value="1924" />
+    <option name="height" value="1085" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SF3_ANG7_DockerStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SF3_ANG7_DockerStack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SF3_ANG7_DockerStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SF3_ANG7_DockerStack" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SF3_ANG7_DockerStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SF3_ANG7_DockerStack" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="PRM_API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SF3_ANG7_DockerStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SF3_ANG7_DockerStack" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="PRM_API" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker/nginx" />
+      <recent name="$PROJECT_DIR$/WebClient" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20e9ae93-bbb7-4c24-a456-d9f7981a236a" name="Default Changelist" comment="" />
+      <created>1541754847677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541754847677</updated>
+      <workItem from="1541754848998" duration="8317000" />
+      <workItem from="1541768402542" duration="648000" />
+      <workItem from="1541769342370" duration="12727000" />
+      <workItem from="1541787323568" duration="2781000" />
+      <workItem from="1541798948915" duration="352000" />
+      <workItem from="1541839648715" duration="3498000" />
+      <workItem from="1542011698828" duration="991000" />
+      <workItem from="1542014439828" duration="686000" />
+      <workItem from="1542026117790" duration="610000" />
+      <workItem from="1542046835032" duration="613000" />
+      <workItem from="1542052918829" duration="749000" />
+      <workItem from="1542100037396" duration="1408000" />
+      <workItem from="1542125095715" duration="1690000" />
+      <workItem from="1542134853182" duration="573000" />
+      <workItem from="1542178417303" duration="6000" />
+      <workItem from="1542178468492" duration="328000" />
+      <workItem from="1542191272540" duration="221000" />
+      <workItem from="1542999578062" duration="38000" />
+      <workItem from="1543010474263" duration="3416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39652000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1918" y="1" width="1924" height="1085" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49909255" visible="true" weight="0.15741728" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5009074" side_tool="true" weight="0.20122601" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5825243" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WebClient/prm-client/docker/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/WebClient/prm-client/docker/nginx.conf" />
+    <entry file="file://$PROJECT_DIR$/WebClient/docker/nginx/api.conf" />
+    <entry file="file://$PROJECT_DIR$/WebClient/docker/nginx/nginx.conf" />
+    <entry file="file://$PROJECT_DIR$/docker/nginx/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebClient/docker/web-client/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/web-client/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/nginx/api.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/engine/php.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/nginx/api_tpl.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/PRM_API/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/web-client/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/PRM_API/web/app_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
